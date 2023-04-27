@@ -1,3 +1,3 @@
 Carlos Felipe
 Weather App Rebuild
-This is a weathe app build in React using Bootstap for styling
+This is a weather app build in React using Bootstap for styling
